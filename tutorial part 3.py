@@ -1,0 +1,53 @@
+#Part 2
+if second == 1:
+  part2 = "you stupid"
+if second == 2:
+  part2 = "you lazy"
+if second == 3:
+  part2 = "you pathetic"
+if second == 4:
+  part2 = "you useless"
+if second == 5:
+  part2 = "you silly"
+if second == 6:
+  part2 = "you ignorant"
+if second == 7:
+  part2 = "you fat"
+if second == 8:
+  part2 == "you dumb"
+if second == 9:
+  part2 = "you little"
+if second == 10:
+  part2 = "you fucking"
+if second == 11:
+  part2 = "you bloody"
+if second == 12:
+  part2 = "you ugly"
+if second == 13:
+  part2 = "you weird"
+if second == 14:
+  part2 = "you hopeless"
+if second == 15:
+  part2 = "you wimpy"
+if second == 16:
+  part2 = "you goddamn"
+if second == 17:
+  part2 = "you brainless"
+if second == 18:
+  part2 = "you slow"
+if second == 19:
+  part2 = "you proud"
+if second == 20:
+  part2 = "you fat-mouthed"
+if second == 21:
+  part2 = "you blasted"
+if second == 22:
+  part2 = "you wasted"
+if second == 23:
+  part2 = "you dopey"
+if second == 24:
+  part2 = "you right"
+if second == 25:
+  part2 = "you worthless"
+if second == 26:
+  part2 = "you stinky"
